@@ -1,0 +1,30 @@
+{
+  "name": "es6-basis",
+  "version": "1.0.0",
+  "description": "Aprender nociones js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nillireth/es6-basis.git"
+  },
+  "keywords": [
+    "es6",
+    "es2015",
+    "funciones"
+  ],
+  "author": "Paula Lopez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nillireth/es6-basis/issues"
+  },
+  "homepage": "https://github.com/Nillireth/es6-basis#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
